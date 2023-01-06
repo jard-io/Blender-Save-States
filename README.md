@@ -14,7 +14,8 @@ This add-on is only compatible with these Blender versions:
 > Blender 2.80+
 
 ### Installing
-[Read here for instructions on installing](https://docs.blender.org/manual/en/latest/editors/preferences/addons.html)
+
+Download SaveStates.py then [read here for instructions on installing](https://docs.blender.org/manual/en/latest/editors/preferences/addons.html)
 
 ## Built With
 - Python 3
